@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>centro de ayuda espiritual del hermano antonio </title>
+<title>centro de ayuda espiritual del hermano antonio
 </head>
 
 <body bgcolor="black" text="white">
